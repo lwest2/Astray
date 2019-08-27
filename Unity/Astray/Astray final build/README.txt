@@ -1,0 +1,1 @@
+1. Unzip Astray final build.zip and run .exe for game.
